@@ -12,21 +12,9 @@ The project aims to provide an interactive experience, allowing users to visuall
 - **Random Initialization**: Generate a random starting point to explore unexpected patterns and behaviors.
 - **Infinite Grid**: Thanks to edge wrapping, experience an unbounded canvas for your cellular automata, allowing patterns to move seamlessly across the grid boundaries.
 
-# Video Tutorial
 
 <p align="center">
   <img src="preview.jpg" alt="" width="960">
-</p>
-
-<p align="center">
-🎥 <a href = "https://youtu.be/daFYGrXq0aw">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
 
 
