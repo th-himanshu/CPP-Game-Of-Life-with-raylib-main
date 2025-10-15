@@ -13,9 +13,6 @@ The project aims to provide an interactive experience, allowing users to visuall
 - **Infinite Grid**: Thanks to edge wrapping, experience an unbounded canvas for your cellular automata, allowing patterns to move seamlessly across the grid boundaries.
 
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="960">
-</p>
 
 
 ## How to Run the Program
